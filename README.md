@@ -46,6 +46,6 @@ The goal was to understand how LoRA enables efficient fine-tuning of large langu
 I'm passionate about scalable ML solutions, model optimization, and applied AI engineering.  
 Always open to learning, discussions, and collaborations!
 
-👉 [LinkedIn Profile](your-linkedin-url)
+👉 [LinkedIn Profile](https://www.linkedin.com/in/lakshminarayan-shrivas/)
 
 ---
